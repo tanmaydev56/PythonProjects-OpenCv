@@ -1,0 +1,15 @@
+mystr = "tanmay sharma"###age se  positive me increase hoga or counting peechee se karoge tho negeative me start hoga like=-1,-2,-3,-4,-5...... etc
+   ###   012345678910111213###
+#print(mystr[0:6])
+#print(mystr[0:5])
+#print(mystr[2])
+#print(len(mystr))
+#print(mystr[11])
+#print(mystr[0:600])
+#print(mystr[0:6:2])
+#print(mystr[:5])
+print(mystr[::2])
+#print(mystr[::3])
+#print(mystr[-4:1])
+#print(mystr[::-1])
+#print(mystr[::-2])

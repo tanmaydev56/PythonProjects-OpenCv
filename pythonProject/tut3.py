@@ -1,0 +1,11 @@
+mystr = "tanmaysharmaisagutiar12"
+#print(mystr.isalpha())
+print(mystr.isalnum())
+#print(mystr.endswith("sharma"))
+#print(mystr.count('a'))
+#print(mystr.count('A'))
+#print(mystr.capitalize())
+#print(mystr.find("is"))
+#print(mystr.lower())
+#print(mystr.upper())
+#print(mystr.replace("is","tune"))
