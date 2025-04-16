@@ -1,7 +1,7 @@
 PythonProjects - OpenCv 
 
-##############################################################################################################################################################
-**PROJECT - 1**
+###########################################################################################################################################
+#**PROJECT - 1**
 # 🧠 Face Attendance System | OpenCV + Face Recognition
 
 A Python-based **Face Attendance System** that utilizes real-time webcam input to recognize faces and mark attendance automatically. Built using `OpenCV`, `face_recognition`, and `dlib`, this project logs attendance details with accurate timestamps into a CSV file.
@@ -60,4 +60,5 @@ Run the Script
 Edit
 python faceAttendance.py
 
-##############################################################################################################################################################
+##############################################################################################################################################
+PROJECT - 2
